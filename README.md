@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @netwengineer
-- 👀 I’m interested in network automatisation
-- 🌱 I’m currently learning go
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - telegram @rstpospf
+- 👋 Hi, I’m @AndreyQuantum
+- 👀 I’m interested in Java development
+- 🌱 I’m currently learning javascript
+- 📫 How to reach me - telegram @AndreyQuantum
 
